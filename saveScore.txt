@@ -1,0 +1,6 @@
+Martyna 6 1000
+Zbyszek 5 500
+Kaśka 4 500
+Tomasz 3 100
+Łukasz 3 100
+Michał 2 250
